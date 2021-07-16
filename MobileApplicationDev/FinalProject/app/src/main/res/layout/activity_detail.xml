@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/round_corners"
+
+
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/password"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+            android:textStyle="bold"
+
+            android:textSize="25sp" />
+
+
+        <TextView
+            android:id="@+id/name_text"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/app_name"
+            android:layout_marginTop="10dp"
+            android:paddingStart="5dp"
+            android:textSize="15sp"
+            android:text="@string/name"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry" />
+
+        <EditText
+            android:id="@+id/name_editText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/name_text"
+            android:layout_marginTop="8dp"
+            android:hint="@string/add_name"
+            android:autofillHints="@string/add_name"
+            android:background="@drawable/round_corners2"
+            android:textStyle="italic"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/website_textDisplay"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/name_editText"
+            android:layout_marginTop="10dp"
+            android:paddingStart="5dp"
+            android:textSize="15sp"
+            android:text="@string/website"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry" />
+
+        <EditText
+            android:id="@+id/website_editText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/website_textDisplay"
+            android:layout_marginTop="8dp"
+            android:autofillHints="@string/add_url"
+            android:hint="@string/add_url"
+            android:textStyle="italic"
+            android:background="@drawable/round_corners2"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/login_textView"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/website_editText"
+            android:layout_marginTop="10dp"
+            android:paddingStart="5dp"
+            android:textSize="15sp"
+            android:text="@string/login"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry" />
+
+        <EditText
+            android:id="@+id/email_textEdit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/login_textView"
+            android:layout_marginTop="8dp"
+            android:autofillHints="@string/add_login"
+            android:hint="@string/add_login"
+            android:textStyle="italic"
+            android:background="@drawable/round_corners2"
+            android:inputType="textEmailAddress" />
+
+        <TextView
+            android:id="@+id/password"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/email_textEdit"
+            android:layout_marginTop="10dp"
+            android:paddingStart="5dp"
+            android:textSize="15sp"
+            android:text="@string/password"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/text_input_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:passwordToggleEnabled="true"
+            android:layout_below="@+id/password">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/password_editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/password"
+                android:layout_marginTop="8dp"
+                android:inputType="textPassword"
+                android:textStyle="italic"
+                android:background="@drawable/round_corners2"
+                android:padding="10dp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/text_input_layout"
+            android:layout_marginTop="10dp"
+            android:paddingStart="5dp"
+            android:textSize="15sp"
+            android:text="@string/category"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry" />
+
+        <Spinner
+            android:id="@+id/password_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/category"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/round_corners2"
+            android:entries="@array/password_category" />
+
+        <Button
+            android:id="@+id/save_button"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@id/password_category"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/round_corners2"
+            android:text="@string/save" />
+
+
+
+    </RelativeLayout>
+</ScrollView>
+
+

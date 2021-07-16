@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="258c4fe4-ba96-4890-80b0-04b440511b4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_preference_preference_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_firebaseui_firebase_ui_auth_7_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_firebaseui_firebase_ui_common_7_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_firebaseui_firebase_ui_database_7_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/sharp_logout_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/sharp_logout_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/sharp_settings_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_add_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_add_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_add_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_add_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_add_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-hdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_add_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_add_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_add_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_add_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_add_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-mdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_add_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_add_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_add_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_add_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_add_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xhdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_add_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_add_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_add_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_add_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_add_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxhdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_add_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_add_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_add_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_add_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_add_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_delete_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_delete_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_delete_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_delete_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_delete_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_logout_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_logout_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_logout_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_logout_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_logout_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_settings_white_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_settings_white_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_settings_white_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_settings_white_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable-xxxhdpi/sharp_settings_white_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/sharp_add_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/sharp_add_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/sharp_delete_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/sharp_logout_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/sharp_logout_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drawable/sharp_settings_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_activity_activity_1_2_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_activity_activity_1_2_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_core_core_1_5_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_core_core_1_5_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_firebaseui_firebase_ui_auth_7_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_firebaseui_firebase_ui_common_7_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_firebaseui_firebase_ui_database_7_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_19_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_19_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_0_beta01_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_0_beta01_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_database_20_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/java/eugenehenneberry/cs/lewisu/passwordmanager/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/java/eugenehenneberry/cs/lewisu/passwordmanager/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/java/eugenehenneberry/cs/lewisu/passwordmanager/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/java/eugenehenneberry/cs/lewisu/passwordmanager/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_off_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_off_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_off_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_off_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-hdpi/baseline_visibility_off_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_off_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_off_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_off_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_off_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-mdpi/baseline_visibility_off_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_off_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_off_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_off_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_off_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xhdpi/baseline_visibility_off_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_off_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_off_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_off_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_off_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxhdpi/baseline_visibility_off_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_off_black_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_off_black_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_off_black_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_off_black_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable-xxxhdpi/baseline_visibility_off_black_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/baseline_visibility_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/baseline_visibility_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/sharp_delete_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/drawable/baseline_visibility_off_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/menu/delete_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/menu/delete_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/menu/sign_out_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/menu/sign_out_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../FinalProject/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1uoKtv4ehVVhr6EiMDEe2Ya4tkC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="258c4fe4-ba96-4890-80b0-04b440511b4c" name="Default Changelist" comment="" />
+      <created>1625326720188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625326720188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

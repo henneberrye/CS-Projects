@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "347834686075",
+    "firebase_url": "https://password-manager-95972-default-rtdb.firebaseio.com",
+    "project_id": "password-manager-95972",
+    "storage_bucket": "password-manager-95972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347834686075:android:fd1614d89bf1efd1d060de",
+        "android_client_info": {
+          "package_name": "eugenehenneberry.cs.lewisu.finalproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347834686075-e2kuffohv31eqt1sd0i6uh91f8p2gebd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOUFccjAiHC3FCz0nqoxwCFlxyRyFWa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347834686075-e2kuffohv31eqt1sd0i6uh91f8p2gebd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347834686075:android:8d8251c4ef932ba8d060de",
+        "android_client_info": {
+          "package_name": "eugenehenneberry.cs.lewisu.passwordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347834686075-e2kuffohv31eqt1sd0i6uh91f8p2gebd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmOUFccjAiHC3FCz0nqoxwCFlxyRyFWa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347834686075-e2kuffohv31eqt1sd0i6uh91f8p2gebd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
