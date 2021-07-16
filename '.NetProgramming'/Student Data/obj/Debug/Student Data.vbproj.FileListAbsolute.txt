@@ -1,0 +1,12 @@
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student Data.vbprojAssemblyReference.cache
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student_Data.Form1.resources
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student_Data.Resources.resources
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student Data.vbproj.GenerateResource.cache
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student Data.vbproj.CoreCompileInputs.cache
+C:\Users\Gene\source\repos\Student Data\bin\Debug\Student Data.exe.config
+C:\Users\Gene\source\repos\Student Data\bin\Debug\Student Data.exe
+C:\Users\Gene\source\repos\Student Data\bin\Debug\Student Data.pdb
+C:\Users\Gene\source\repos\Student Data\bin\Debug\Student Data.xml
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student Data.exe
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student Data.xml
+C:\Users\Gene\source\repos\Student Data\obj\Debug\Student Data.pdb

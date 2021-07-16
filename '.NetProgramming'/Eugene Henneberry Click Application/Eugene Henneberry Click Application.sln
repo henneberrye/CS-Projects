@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Eugene Henneberry Click Application", ".", "{3B5BBA39-C38D-4E5C-9CBF-77973FA0790C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60722"
+		Debug.AspNetCompiler.PhysicalPath = "..\Eugene Henneberry Click Application\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60722\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60722"
+		Release.AspNetCompiler.PhysicalPath = "..\Eugene Henneberry Click Application\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60722\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60722"
+		SlnRelativePath = "..\Eugene Henneberry Click Application\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5BBA39-C38D-4E5C-9CBF-77973FA0790C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5BBA39-C38D-4E5C-9CBF-77973FA0790C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FF9957-0B50-4C66-B927-40412D90CE37}
+	EndGlobalSection
+EndGlobal

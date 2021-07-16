@@ -1,0 +1,12 @@
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\bin\Debug\Burger Calculator.exe.config
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\bin\Debug\Burger Calculator.exe
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\bin\Debug\Burger Calculator.pdb
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\bin\Debug\Burger Calculator.xml
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger_Calculator.Form1.resources
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger_Calculator.Resources.resources
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger Calculator.vbproj.GenerateResource.cache
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger Calculator.exe
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger Calculator.xml
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger Calculator.pdb
+C:\Users\Gene\OneDrive\Documents\Gene\.Net Programing\source\repos\Burger Calculator\obj\Debug\Burger Calculator.vbprojAssemblyReference.cache

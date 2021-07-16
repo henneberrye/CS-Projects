@@ -1,0 +1,12 @@
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\bin\Debug\Week1-HelloWorld.exe.config
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\bin\Debug\Week1-HelloWorld.exe
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\bin\Debug\Week1-HelloWorld.pdb
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\bin\Debug\Week1-HelloWorld.xml
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1-HelloWorld.vbprojAssemblyReference.cache
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1_HelloWorld.Form1.resources
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1_HelloWorld.Resources.resources
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1-HelloWorld.vbproj.GenerateResource.cache
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1-HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1-HelloWorld.exe
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1-HelloWorld.xml
+C:\Users\Gene\source\repos\Week1-HelloWorld\Week1-HelloWorld\obj\Debug\Week1-HelloWorld.pdb

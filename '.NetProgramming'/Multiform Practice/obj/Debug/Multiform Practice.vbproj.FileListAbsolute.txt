@@ -1,0 +1,15 @@
+C:\Users\Gene\source\repos\Multiform Practice\bin\Debug\Multiform Practice.exe.config
+C:\Users\Gene\source\repos\Multiform Practice\bin\Debug\Multiform Practice.exe
+C:\Users\Gene\source\repos\Multiform Practice\bin\Debug\Multiform Practice.pdb
+C:\Users\Gene\source\repos\Multiform Practice\bin\Debug\Multiform Practice.xml
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform Practice.vbprojAssemblyReference.cache
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform_Practice.MainForm.resources
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform_Practice.Resources.resources
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform Practice.vbproj.GenerateResource.cache
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform Practice.vbproj.CoreCompileInputs.cache
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform Practice.exe
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform Practice.xml
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform Practice.pdb
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform_Practice.MessageForm.resources
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform_Practice.NameForm.resources
+C:\Users\Gene\source\repos\Multiform Practice\obj\Debug\Multiform_Practice.DateForm.resources
